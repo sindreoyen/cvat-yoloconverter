@@ -1,0 +1,1 @@
+This repo contains code that allows for simple conversion from the CVAT `Ultralytics YOLO Detection 1.0` format, to a trainable Ultralytics dataset format. The conversion method has been tested with conversion from the CVAT standard to trainable data for YOLO11 and YOLO12 models.

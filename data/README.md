@@ -1,0 +1,1 @@
+Place your CVAT dataset (the folder extracted from your `.zip` file) in this folder.
